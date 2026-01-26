@@ -1,6 +1,6 @@
 {
   "name": "tahrir",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Web app for issuing your own Open Badges",
   "main": "src/index.js",
   "scripts": {
